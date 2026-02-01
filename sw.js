@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'rivus-offline-v1769468933390';
+const CACHE_NAME = 'rivus-offline-v1769958120537';
 
 self.addEventListener('install', event => {
   self.skipWaiting();
